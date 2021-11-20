@@ -28,6 +28,7 @@
 ---
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angenx&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Angenx&show_icons=true&theme=dark&count_private=true&custom_title=GitHub%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 
 `hello world!`
 
