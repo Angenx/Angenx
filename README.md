@@ -1,11 +1,11 @@
-# ***The Offical GitHub of Alex Burke***
+# ***The Offical GitHub of Lexi Burke***
 
 ## Hello there![^1] Hope you're having a good day 😄👋
 ---
 
 ### **Facts**
 - I am currently studying as a third year student at Nottingham Trent University
-- He/Him pronouns
+- She/Her pronouns
 - Been pootling around this planet for 20 years
 - Studying is a 40/40/20 % split of anime/gaming/studying [^2]
 
@@ -21,16 +21,10 @@
 
 ---
 
-> ### **Don't turn your back on:**
-> 1. Bears
-> 2. Men you have wronged
-> 3. The dominant turkey during mating season
----
+
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angenx&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Angenx&show_icons=true&theme=dark&count_private=true&custom_title=GitHub%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 
 `hello world!`
 
-[^1]: General Kenobi
-[^2]: Okay I lied its 50/50/0 (its been a tough 20 years cut me some slack here)
