@@ -5,7 +5,7 @@
 
 ### **Facts**
 - I am currently studying as a third year student at Nottingham Trent University
-- She/Her pronouns
+- She/Her/They/Them
 - Been pootling around this planet for 20 years
 - Studying is a 40/40/20 % split of anime/gaming/studying [^2]
 
